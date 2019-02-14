@@ -1,0 +1,50 @@
+body {
+    background-color: #8C8FAC;
+    font-family: 'Roboto', sans-serif;
+}
+
+.picture-container {
+    background-color: #666D73;
+}
+
+.light-text {
+    color: white;
+}
+
+.name {
+    font-family: 'Oswald', sans-serif;
+}
+
+.even {
+    background-color: #ABC0B3;
+}
+.odd {
+    background-color: #ADA485;
+}
+
+.ul-bullets {
+    list-style-type: square;
+}
+
+.ol-letters {
+    list-style-type: lower-latin;
+}
+
+.custom-nav {
+    border: .1em solid #ABC0B3;
+    background-color: azure;
+}
+
+nav a {
+    margin: 0 1em 0;
+    padding: 0 .5em;
+}
+
+nav a:first-child {
+    margin: 0 1em 0 0;
+    padding: 0 .5em 0 0;
+}
+
+a:hover {
+    color: plum;
+}
